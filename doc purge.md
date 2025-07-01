@@ -108,7 +108,7 @@ ResetCounters(); // Réinitialise l'affichage
 ### `PS_PURGE` 
 **Rôle** : Exécute la purge effective  
 **Paramètres** : Identiques à PS_GET_PURGE  
-**Action** : Suppression physique des données
+**Action** : Modification physique des données
 
 ---
 
